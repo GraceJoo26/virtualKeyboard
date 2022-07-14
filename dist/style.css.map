@@ -1,1 +1,1 @@
-{"version":3,"file":"style.css","mappings":";;;AAAA,EAAE,SAAS,CAAC,C","sources":["webpack://virtualKeyboard/./src/css/style.css"],"sourcesContent":["p{color:red;}"],"names":[],"sourceRoot":""}
+{"version":3,"file":"style.css","mappings":"AAAA,EAAE,SAAU,CACZ,IACI,WACJ","sources":["webpack://virtualKeyboard/./src/css/style.css"],"sourcesContent":["p{color:red;}\r\ndiv{\r\n    width:100px;\r\n}"],"names":[],"sourceRoot":""}
