@@ -16,7 +16,7 @@ module.exports={
     host:"localhost",
     port:8080,
     open:true,
-    watchFiles:'index.html'
+    watchFiles:'index.html' 
   },
   plugins:[
     new HtmlwebpackPlugin({
