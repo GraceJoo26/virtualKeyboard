@@ -12,7 +12,7 @@ module.exports={
   },
   devtool: "source-map",
   mode: "development",
-  plugin:[
+  plugins:[
     new HtmlwebpackPlugin({
       title:"keyboard",
       template:"./index.html",
